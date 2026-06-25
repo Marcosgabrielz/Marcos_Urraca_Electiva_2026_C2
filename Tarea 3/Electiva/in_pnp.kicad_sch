@@ -1,0 +1,40 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "00669195-6564-408b-80f2-6fc12bc2bc18")
+	(paper "A4")
+	(lib_symbols)
+	(text "ENTRADAS DIGITALES 5-30+V\n"
+		(exclude_from_sim no)
+		(at 84.582 70.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8d487795-376d-4fb1-806b-e29c98e8249c")
+	)
+	(hierarchical_label "INPUT"
+		(shape input)
+		(at 83.82 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4490ecbb-3225-4713-bbce-7b0461fecbdc")
+	)
+	(hierarchical_label "OUT"
+		(shape input)
+		(at 83.82 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45846a7b-ce01-49b9-8100-97410ac6bcfa")
+	)
+)

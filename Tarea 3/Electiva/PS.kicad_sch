@@ -1,0 +1,29 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3d0a79f7-3456-4ba9-8c4c-27415a3cbb76")
+	(paper "A4")
+	(lib_symbols)
+	(text "ENTRADA DE 5-32V"
+		(exclude_from_sim no)
+		(at 95.25 60.198 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "246e5f16-0335-4879-ac9c-32c860750036")
+	)
+	(hierarchical_label "IN_VDC"
+		(shape input)
+		(at 95.25 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d25b3626-3598-43d7-a24b-58764a297c7c")
+	)
+)
